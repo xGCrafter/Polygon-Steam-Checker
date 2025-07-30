@@ -44,9 +44,12 @@ Paid Version:
 <img width="1479" height="747" alt="Paid Version" src="https://github.com/user-attachments/assets/8d82995c-5f32-4f99-8645-b4cc3f27501d" />
 
 # Support
-For questions or assistance, join our Discord server: \n
-Main link: discord.gg/pxlygon \n
-Backup (incase we lose vanity): https://discord.gg/BmPKXpbYHK \n
+For questions or assistance, join our Discord server: 
+
+Main link: discord.gg/pxlygon 
+
+Backup (incase we lose vanity): https://discord.gg/BmPKXpbYHK 
+
 My discord: xgcrafter
 
 # Hope you enjoy!
