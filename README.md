@@ -20,17 +20,21 @@ This version is a free version of Polysteam - Premium, i.e it is slower and lack
 # Installation
 Install Python 3 and Git.
 Clone the repository:
+```
 git clone https://github.com/xGCrafter/Polysteam
-
+```
 Install dependencies:
+```
 pip install -r requirements.txt
-
+```
 Then, type:
-cd Polysteam
-
+```
+cd Polygon-Steam-Checker
+```
 To use the tool, type:
+```
 python main.py
-
+```
 # Warning: Do not sell or distribute modified versions of PolySteam - Free. If you are using any code, please ask for permission
 
 # Screenshots
@@ -44,3 +48,6 @@ For questions or assistance, join our Discord server:
 Main link: discord.gg/pxlygon
 Backup (incase we lose vanity): https://discord.gg/BmPKXpbYHK
 My discord: xgcrafter
+
+# Hope you enjoy!
+Dont skid!
