@@ -34,7 +34,7 @@ python main.py
 # Warning: Do not sell or distribute modified versions of PolySteam - Free. If you are using any code, please ask for permission
 
 # Screenshots
-![Free Version](https://i.ibb.co/hRq3zZbc/image.png)
+![Alt text](https://i.ibb.co/hRq3zZbc/image.png)
 
 # Support
 For questions or assistance, join our Discord server:
