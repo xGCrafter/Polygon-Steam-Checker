@@ -34,7 +34,10 @@ python main.py
 # Warning: Do not sell or distribute modified versions of PolySteam - Free. If you are using any code, please ask for permission
 
 # Screenshots
-![Alt text](https://i.ibb.co/hRq3zZbc/image.png)
+Free Version:
+<img width="1845" height="549" alt="Free Version" src="https://github.com/user-attachments/assets/bd893206-9250-4589-8fdc-e0a65412a4c8" />
+Paid Version:
+<img width="1479" height="747" alt="Paid Version" src="https://github.com/user-attachments/assets/8d82995c-5f32-4f99-8645-b4cc3f27501d" />
 
 # Support
 For questions or assistance, join our Discord server:
