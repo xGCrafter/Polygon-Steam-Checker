@@ -15,8 +15,8 @@ Note: Skidding/Leaching/Redistributing without credit/permission is prohibited!
 - Saves Rate limited to rate_limits.log (Premium gets little to no rate limits)
 - The checking method of 'Free' is different from the checking method of 'Premium', hence attempting to skid will not get results of our paid checker.
 
-This version is a free version of Polysteam - Premium, i.e it is slower and lacks in features such as VAC ban detection, game library capture, 2FA detection, and uses a much slower checking method.
-
+This version is a free version of Polysteam - Premium, i.e it is slower and lacks in features such as VAC ban detection, game library capture, 2FA detection, and uses a **much slower checking method.**
+Stealing the code wont get you the results of our paid checker, even attempting to improve this one won't get the same results! Feel free to edit my code or even make addons, as long as you give credit, reach out at my discord, "xgcrafter"
 # Installation
 Install Python 3 and Git.
 Clone the repository:
@@ -35,7 +35,7 @@ To use the tool, type:
 ```
 python main.py
 ```
-# Warning: Do not sell or distribute modified versions of PolySteam - Free. If you are using any code, please ask for permission
+# Warning: Do not sell or distribute modified versions of PolySteam - Free. If you are using any of my code, please ask for permission
 
 # Screenshots
 Free Version:
