@@ -175,15 +175,7 @@ class _RedstoneTorch: # Made By Polygon https://discord.gg/BmPKXpbYHK
         if _ender_pearl: # Made By Polygon https://discord.gg/BmPKXpbYHK
             self._brewing_stand.proxies = {'http': _ender_pearl, 'https': _ender_pearl} # Made By Polygon | https://discord.gg/BmPKXpbYHK
             self._observer.info(f"Proxy active: {_ender_pearl}") # MADE BY GCrafter | discord.gg/BmPKXpbYHK
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
     def _verify_eye(self, _villager, _gold_ingot): # Made By Polygon | discord.gg/pxlygon NO SKIDDING
         try: # Made By Polygon https://discord.gg/BmPKXpbYHK
             _potion = self._brewing_stand.post( # Made By Polygon | https://discord.gg/BmPKXpbYHK
@@ -233,15 +225,7 @@ class _DiamondPickaxe: # Made By Polygon https://discord.gg/BmPKXpbYHK
                     # >>---------------------------------------------------------------------------------------------------------------------<< 
         self._treasure_chest = _output_path / f'PolygonResults.txt' # Made By Polygon | https://discord.gg/BmPKXpbYHK
         self._ender_pearl = _ender_pearl # MADE BY GCrafter | discord.gg/BmPKXpbYHK
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
     def _load_netherite(self, _map_path): # Made By Polygon | discord.gg/pxlygon NO SKIDDING
         try: # Made By Polygon https://discord.gg/BmPKXpbYHK
             with open(_map_path, 'r', encoding='utf-8') as _book: # Made By Polygon | https://discord.gg/BmPKXpbYHK
@@ -265,15 +249,7 @@ class _DiamondPickaxe: # Made By Polygon https://discord.gg/BmPKXpbYHK
         self._stats['start_time'] = _redstone_timer.time() # Made By Polygon | discord.gg/pxlygon NO SKIDDING
         _spider_eye.Thread(target=self._worker_creeper).start() # Made By Polygon https://discord.gg/BmPKXpbYHK
         return True # Made By Polygon | https://discord.gg/BmPKXpbYHK
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
     def _worker_creeper(self): # MADE BY GCrafter | discord.gg/BmPKXpbYHK
         _torch = _RedstoneTorch(self._blaze_rod, self._ender_pearl) # Made By Polygon | discord.gg/pxlygon NO SKIDDING
         while self._mining and not self._minecart_queue.empty(): # Made By Polygon https://discord.gg/BmPKXpbYHK
@@ -284,15 +260,7 @@ class _DiamondPickaxe: # Made By Polygon https://discord.gg/BmPKXpbYHK
                 'password': _gold_ingot, # Made By Polygon | https://discord.gg/BmPKXpbYHK
                 'line_num': _line_num, # MADE BY GCrafter | discord.gg/BmPKXpbYHK
                 'result': _result, # Made By Polygon | discord.gg/pxlygon NO SKIDDING
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
                 'capture_data': { # Made By Polygon https://discord.gg/BmPKXpbYHK
                     'vac_status': 'Premium Feature',  # Premium Only: Detailed VAC ban detection # Made By Polygon | https://discord.gg/BmPKXpbYHK
                     'owned_games': 'Premium Feature',  # Premium Only: Game library capture # MADE BY GCrafter | discord.gg/BmPKXpbYHK
@@ -302,15 +270,7 @@ class _DiamondPickaxe: # Made By Polygon https://discord.gg/BmPKXpbYHK
                 } # MADE BY GCrafter | discord.gg/BmPKXpbYHK
             }) # Made By Polygon | discord.gg/pxlygon NO SKIDDING
             self._minecart_queue.task_done() # Made By Polygon https://discord.gg/BmPKXpbYHK
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
     def _stop_mining(self): # Made By Polygon | https://discord.gg/BmPKXpbYHK
         self._mining = False # MADE BY GCrafter | discord.gg/BmPKXpbYHK
         self._minecart_queue.join() # Made By Polygon | discord.gg/pxlygon NO SKIDDING
@@ -359,15 +319,7 @@ class _DiamondPickaxe: # Made By Polygon https://discord.gg/BmPKXpbYHK
 
     def _get_inventory(self): # MADE BY GCrafter | discord.gg/BmPKXpbYHK
         return self._stats.copy() # Made By Polygon | discord.gg/pxlygon NO SKIDDING
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
 class _CraftingTable: # Made By Polygon https://discord.gg/BmPKXpbYHK
     def __init__(self, _silent=False): # Made By Polygon | https://discord.gg/BmPKXpbYHK
         self._silent = _silent # MADE BY GCrafter | discord.gg/BmPKXpbYHK
@@ -382,29 +334,12 @@ class _CraftingTable: # Made By Polygon https://discord.gg/BmPKXpbYHK
         if not self._silent: # Made By Polygon | https://discord.gg/BmPKXpbYHK
             print(f"{_color}{_message}", end='') # MADE BY GCrafter | discord.gg/BmPKXpbYHK
             _diamond_sword.stdout.flush() # Made By Polygon | discord.gg/pxlygon NO SKIDDING
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
     def _input(self, _prompt, _color=_dye.GREEN): # Made By Polygon https://discord.gg/BmPKXpbYHK
         if self._silent: # Made By Polygon | https://discord.gg/BmPKXpbYHK
             return "" # MADE BY GCrafter | discord.gg/BmPKXpbYHK
         return input(f"{_color}> {_prompt}") # Made By Polygon | discord.gg/pxlygon NO SKIDDING
-                                                                            
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
                                                                             
 
     def _show_title_screen(self): # Made By Polygon https://discord.gg/BmPKXpbYHK
@@ -456,15 +391,7 @@ class _CraftingTable: # Made By Polygon https://discord.gg/BmPKXpbYHK
         self._print(f"✖ PREMIUM ONLY: VAC, Games, 2FA, Multi-threading\n", _dye.RED) # Made By Polygon | discord.gg/pxlygon NO SKIDDING
         self._print(f"{'-' * self._width}\n", _dye.CYAN) # Made By Polygon https://discord.gg/BmPKXpbYHK
         self._print(f"Ctrl+C to stop\n", _dye.RED) # Made By Polygon | https://discord.gg/BmPKXpbYHK
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
     def _show_summary(self, _stats, _output_file): # MADE BY GCrafter | discord.gg/BmPKXpbYHK
         if self._silent: # Made By Polygon | discord.gg/pxlygon NO SKIDDING
             return # Made By Polygon https://discord.gg/BmPKXpbYHK
@@ -546,15 +473,7 @@ def _main_smelting(): # Made By Polygon https://discord.gg/BmPKXpbYHK
 
     if not _args.silent: # Made By Polygon | discord.gg/pxlygon NO SKIDDING
         _crafting_ui._show_title_screen() # Made By Polygon https://discord.gg/BmPKXpbYHK
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-#░    ░░░░░   ░░░░░     ░░░░░░░░░░░░░░      ░░░   ░░░   ░░░   ░      ░░░░░      ░░░░░   ░    ░░░░░   ░░░░     ░░░░
-#▒  ▒   ▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒   ▒▒   ▒▒▒▒   ▒   ▒▒▒   ▒▒   ▒▒▒   ▒▒   ▒  ▒   ▒▒▒   ▒▒  ▒▒▒▒   ▒▒
-#▒   ▒   ▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒   ▒   ▒▒▒▒   ▒   ▒▒▒▒   ▒   ▒   ▒   ▒▒   ▒  ▒▒▒▒▒▒▒▒▒▒
-#▓   ▓▓   ▓   ▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓  ▓  ▓▓▓▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓   ▓▓   ▓   ▓   ▓▓▓▓▓▓▓▓▓
-#▓   ▓▓▓  ▓   ▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓   ▓▓   ▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓   ▓▓▓  ▓   ▓   ▓▓▓      
-#▓   ▓▓▓▓  ▓  ▓▓▓   ▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓   ▓   ▓▓▓   ▓▓▓   ▓   ▓▓▓   ▓▓   ▓▓▓   ▓▓   ▓   ▓▓▓▓  ▓  ▓▓   ▓▓▓▓  ▓▓
-#█   ██████   █████     ██████████████      ███   █████   █   █      █████      █████   █   ██████   ███      ████
-#█████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
 
     while True: # Made By Polygon | https://discord.gg/BmPKXpbYHK
         if not _args.silent: # MADE BY GCrafter | discord.gg/BmPKXpbYHK
