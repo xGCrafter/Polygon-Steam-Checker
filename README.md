@@ -36,7 +36,7 @@ To use the tool, type:
 python main.py
 ```
 # Warning: Do not sell or distribute modified versions of PolySteam - Free. If you are using any of my code, please ask for permission
- If you wish to make some changes or addons to this ch3cker, please do give me credit :)
+ If you wish to make some changes or addons to this checker, please do give me credit :)
 
 
 # Screenshots
