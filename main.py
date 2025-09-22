@@ -4,10 +4,7 @@
 # Hey! This is a tool called "PolySteam - Free" , which is the Free, slower version of "PolySteam - Premium"!
 # This tool was made by GCrafter, and is available for free use. However, Skidding/Leaching/Redistributing without credit/permission is prohibited!
 # If you have any questions or need assistance, feel free to join our Discord server at discord.gg/pxlygon (Backup link: https://discord.gg/BmPKXpbYHK)
-# SKIDDING = GAY
 # SKIDS NOT WANTED
-# SKIDDIES WILL BE BANNED
-# Skidding wont get you anywhere
 # All Rights Reserved to GCrafter (discord: #xgcrafter)
 # >>---------------------------------------------------------------------------------------------------------------------<< #
 # >>---------------------------------------------------------------------------------------------------------------------<< #
@@ -356,15 +353,6 @@ class _CraftingTable: # Made By Polygon https://discord.gg/BmPKXpbYHK
         self._print(f"{' ' * ((self._width - 19) // 2)}2. Start Checking\n") # Made By Polygon | https://discord.gg/BmPKXpbYHK
         self._print(f"{' ' * ((self._width - 9) // 2)}3. Exit\n\n") # MADE BY GCrafter | discord.gg/BmPKXpbYHK
         self._print(f"{' ' * ((self._width - 47) // 2)}✖ PREMIUM ONLY: 2FA, Stats, Multi-threading\n\n", _dye.RED) # Made By Polygon | discord.gg/pxlygon NO SKIDDING
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-#░    ░░░░░   ░░░░░     ░░░░░░░░░░░░░░      ░░░   ░░░   ░░░   ░      ░░░░░      ░░░░░   ░    ░░░░░   ░░░░     ░░░░
-#▒  ▒   ▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒   ▒▒   ▒▒▒▒   ▒   ▒▒▒   ▒▒   ▒▒▒   ▒▒   ▒  ▒   ▒▒▒   ▒▒  ▒▒▒▒   ▒▒
-#▒   ▒   ▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒   ▒   ▒▒▒▒   ▒   ▒▒▒▒   ▒   ▒   ▒   ▒▒   ▒  ▒▒▒▒▒▒▒▒▒▒
-#▓   ▓▓   ▓   ▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓  ▓  ▓▓▓▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓   ▓▓   ▓   ▓   ▓▓▓▓▓▓▓▓▓
-#▓   ▓▓▓  ▓   ▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓   ▓▓   ▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓   ▓▓▓  ▓   ▓   ▓▓▓      
-#▓   ▓▓▓▓  ▓  ▓▓▓   ▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓   ▓   ▓▓▓   ▓▓▓   ▓   ▓▓▓   ▓▓   ▓▓▓   ▓▓   ▓   ▓▓▓▓  ▓  ▓▓   ▓▓▓▓  ▓▓
-#█   ██████   █████     ██████████████      ███   █████   █   █      █████      █████   █   ██████   ███      ████
-#█████████████████████████████████████████████████████████████████████████████████████████████████████████████████
     def _show_status(self, _stats): # Made By Polygon | https://discord.gg/BmPKXpbYHK
         if self._silent: # MADE BY GCrafter | discord.gg/BmPKXpbYHK
             return # Made By Polygon | discord.gg/pxlygon NO SKIDDING
@@ -417,15 +405,7 @@ class _CraftingTable: # Made By Polygon https://discord.gg/BmPKXpbYHK
         _hours, _rem = divmod(int(_seconds), 3600) # Made By Polygon | https://discord.gg/BmPKXpbYHK
         _minutes, _seconds = divmod(_rem, 60) # MADE BY GCrafter | discord.gg/BmPKXpbYHK
         return f"{_hours:02d}:{_minutes:02d}:{_seconds:02d}" # Made By Polygon | discord.gg/pxlygon NO SKIDDING
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-#░    ░░░░░   ░░░░░     ░░░░░░░░░░░░░░      ░░░   ░░░   ░░░   ░      ░░░░░      ░░░░░   ░    ░░░░░   ░░░░     ░░░░
-#▒  ▒   ▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒   ▒▒   ▒▒▒▒   ▒   ▒▒▒   ▒▒   ▒▒▒   ▒▒   ▒  ▒   ▒▒▒   ▒▒  ▒▒▒▒   ▒▒
-#▒   ▒   ▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒   ▒   ▒▒▒▒   ▒   ▒▒▒▒   ▒   ▒   ▒   ▒▒   ▒  ▒▒▒▒▒▒▒▒▒▒
-#▓   ▓▓   ▓   ▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓  ▓  ▓▓▓▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓   ▓▓   ▓   ▓   ▓▓▓▓▓▓▓▓▓
-#▓   ▓▓▓  ▓   ▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓   ▓▓   ▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓▓▓▓   ▓   ▓   ▓▓▓  ▓   ▓   ▓▓▓      
-#▓   ▓▓▓▓  ▓  ▓▓▓   ▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓   ▓   ▓▓▓   ▓▓▓   ▓   ▓▓▓   ▓▓   ▓▓▓   ▓▓   ▓   ▓▓▓▓  ▓  ▓▓   ▓▓▓▓  ▓▓
-#█   ██████   █████     ██████████████      ███   █████   █   █      █████      █████   █   ██████   ███      ████
-#█████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
 class _Anvil: # Made By Polygon https://discord.gg/BmPKXpbYHK
     _DEFAULT_ENCHANTMENT = {"combo_file": "", "proxy": None, "threads": 1} # Made By Polygon | https://discord.gg/BmPKXpbYHK
 
@@ -440,15 +420,7 @@ class _Anvil: # Made By Polygon https://discord.gg/BmPKXpbYHK
             except: # Made By Polygon | https://discord.gg/BmPKXpbYHK
                 return self._DEFAULT_ENCHANTMENT.copy() # MADE BY GCrafter | discord.gg/BmPKXpbYHK
         return self._DEFAULT_ENCHANTMENT.copy() # Made By Polygon | discord.gg/pxlygon NO SKIDDING
-#░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ - discord.gg/BmPKXpbYHK
-#░        ░░░░░░░     ░░░░░░   ░░░░░░░░   ░░░░░░   ░░░░     ░░░░░░░░░     ░░░░░░    ░░░░░   ░░░░░░ - discord.gg/pxlygon
-#▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒   ▒▒▒   ▒▒▒▒▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒▒▒▒   ▒▒▒▒▒   ▒▒▒▒   ▒▒▒  ▒   ▒▒▒   ▒▒▒▒▒▒ - discord.gg/BmPKXpbYHK
-#▒   ▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒▒▒▒▒▒▒   ▒   ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒   ▒   ▒   ▒▒   ▒▒▒▒▒▒ - discord.gg/pxlygon
-#▓        ▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓   ▓   ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#▓   ▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓   ▓▓▓      ▓   ▓▓▓▓▓▓▓▓   ▓   ▓▓▓  ▓   ▓▓▓▓▓▓ - discord.gg/pxlygon
-#▓   ▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓▓▓▓▓▓▓▓▓   ▓▓▓▓▓▓▓   ▓▓▓▓  ▓▓▓▓▓   ▓▓▓▓▓   ▓▓   ▓▓▓▓  ▓  ▓▓▓▓▓▓ - discord.gg/BmPKXpbYHK
-#█   ████████████     ██████          █████   ████████      █████████     ██████   ██████   ██████ - discord.gg/pxlygon
-#█████████████████████████████████████████████████████████████████████████████████████████████████ - discord.gg/BmPKXpbYHK
+
     def _save_anvil(self, _enchantment): # Made By Polygon https://discord.gg/BmPKXpbYHK
         try: # Made By Polygon | https://discord.gg/BmPKXpbYHK
             self._map_path.parent.mkdir(parents=True, exist_ok=True) # MADE BY GCrafter | discord.gg/BmPKXpbYHK
